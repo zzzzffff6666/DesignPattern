@@ -1,0 +1,29 @@
+There are 3 main kinds of design patterns, which can be divided into 23 specific types:
+- creator
+  - factory
+  - abstract factory
+  - singleton
+  - builder
+  - prototype
+- structure
+  - adapter
+  - bridge
+  - filter
+  - composite
+  - decorator
+  - facade
+  - flyweight
+  - proxy
+- behavior
+  - responsibility chain
+  - command
+  - interpreter
+  - iterator
+  - mediator
+  - memento
+  - observer
+  - state
+  - null object
+  - strategy
+  - template
+  - visitor
